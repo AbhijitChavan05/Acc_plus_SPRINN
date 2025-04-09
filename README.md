@@ -31,8 +31,8 @@ This project implements a stock price prediction model using two different machi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Stock_Analysis_Prediction_Model.git
-cd Stock_Analysis_Prediction_Model
+git clone https://github.com/yourusername/Acc_plus_SPRINN.git
+cd Acc_plus_SPRINN
 ```
 
 2. Create a virtual environment (optional but recommended):
