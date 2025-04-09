@@ -56,7 +56,7 @@ Stock_Analysis_Prediction_Model/
 ├── src/                     # Source code for data fetching and model training
 ├── models/                  # Saved trained models
 ├── tests/                   # Unit tests for various components
-├── images/                # Model performance visualization
+├── images/                  # Model performance visualization
 ├── requirements.txt         # Project dependencies
 └── main.py                  # Entry point for running the prediction model
 ```
