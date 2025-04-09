@@ -1,13 +1,4 @@
-# Stock Analysis Prediction Model
-
-<div align="center">
-
-![GitHub last commit](https://img.shields.io/github/last-commit/Stock-Market-Prediction-Model)
-![GitHub repo size](https://img.shields.io/github/repo-size/Stock-Market-Prediction-Model)
-![GitHub stars](https://img.shields.io/github/stars/Stock-Market-Prediction-Model)
-[![wakatime](https://wakatime.com/badge/github/Stock-Market-Prediction-Using-ML.svg)](https://wakatime.com/badge/github/Stock-Market-Prediction-Using-ML)
-
-</div>
+## Accounting + Stock Prediction with Neural Network [Acc_plus_SPRINN] - Stock Analysis Prediction Model
 
 ## 🎯 Project Overview
 
