@@ -49,6 +49,7 @@ pip install -r requirements.txt
 ## 📂 Project Structure
 
 ```
+Accounting + Stock Prediction with Neural Network [Acc+SPRINN] - InnovateIN48 - 7th to 9th April 2025
 Stock_Analysis_Prediction_Model/
 │
 ├── data/                    # Raw and processed stock data
