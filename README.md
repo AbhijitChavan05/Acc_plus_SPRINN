@@ -4,6 +4,11 @@
 
 This project implements a stock price prediction model using two different machine learning approaches: linear regression and Long-Short-Term Memory (LSTM) neural networks. The goal is to provide predictive insights into stock price movements using historical data from Yahoo Finance.
 
+We’ll dive into the implementation part of this Project soon, but first it’s important to establish what we’re aiming to solve. 
+Broadly, stock market analysis is divided into two parts – Fundamental Analysis and Technical Analysis.
+● **Fundamental Analysis** involves analyzing the company’s future profitability on the basis of its current business environment and financial performance.
+● **Technical Analysis**, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market.
+
 
 ## 💻 Features
 
